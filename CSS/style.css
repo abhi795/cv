@@ -1,0 +1,61 @@
+.body{
+  text-align: center;
+}
+
+.top-container{
+  background-color: #6bf5fa;
+  height: 10rem;
+  text-align: center;
+  padding-top: 10%;
+  text-decoration: underline;
+}
+.karate-img{
+  text-align: center;
+  border-radius: 100%;
+   height:150px;
+
+  float: left;
+  margin-right: 30px;
+}
+.web-img{
+  border-radius: 100%;
+  height:150px;
+  float: right;
+  margin-left: 30px;
+
+}
+.c{
+  border-radius: 100%;
+  height:150px;
+  float: left;
+}
+.skill-row{
+  font-size: 20px;
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  width: 50%;
+  margin: auto;
+}
+.h3{
+  font-size: 30px;
+  text-align: center;
+}
+.psize{
+  font-size: 20px;
+  text-align: center;
+}
+.contact-me{
+  text-align: center;
+}
+.bottomsec{
+  text-align: center;
+  background-color: #bac8f5;
+  padding: 10px;
+}
+h2{
+  color: #00f521;
+}
+.footer-link{
+  color: #2b37e3;
+}
